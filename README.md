@@ -10,6 +10,13 @@
 2. **Nạp tiền** có 4 hình thức nạp tiền chính : 
     * Nạp tiền bằng thể MasterCard , Visa , JCB.
     * Nạp bằng thẻ ATM / Tài khoản ngân hàng.
+        #### Workflow các thao tác khi tương tác nạp tiền với hệ thống sandbox
+        1. Nhập thông tin vào khung form rồi nhấn **Nạp Tiền**
+        2. Nhập mã OTP , phí giao dịch là 10% số tiền được nạp vào.
+        3. Trạng thái giao dịch thành công
+        ![Ảnh Minh Họa Giao Dịch](http://i.imgur.com/agbmn6Bl.jpg)
+        ![Ảnh Minh Họa Lược Sử Giao Dịch](http://i.imgur.com/quMObyM.png)
+             
     * Chuyển khoản bằng Internet Banking , ATM , quầy giao dịch.
     * Nạp tiền bằng thẻ cào điện thoại : Vina , Viettel , Mobi , GATE
 3. **Rút tiền**
